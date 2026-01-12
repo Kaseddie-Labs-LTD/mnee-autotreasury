@@ -98,20 +98,4 @@ Solidity • Hardhat • OpenZeppelin • Ethereum • MNEE • Alchemy • Ethe
 - Etherscan (Sepolia): [pending live link]
 - Documentation: /docs/SETUP.md & /docs/how-it-works
 
-## Video Demo
 
-[Insert Loom/YouTube link or attach file in submission]
-
-**Quick Screen Recording (5 minutes):**
-Use Windows Game Bar (Win + G) to record:
-1. Show code in VS Code (TreasuryBot.sol)
-2. Explain architecture & features
-3. Show deployment scripts
-4. Describe future AI oracle & mainnet plans
-
-**Suggested Script (1–2 minutes):**
-"This is MNEE AutoTreasury — an autonomous treasury system for DAOs and communities.
-[Show TreasuryBot.sol] The smart contract handles deposits, proposals, voting, and execution with strong security from OpenZeppelin.
-[Show features] Members deposit MNEE tokens, create proposals, and vote — with AI oracle auto-execution for efficiency.
-[Show scripts] We built deployment automation and are ready for mainnet.
-Thanks for checking out our hackathon project!"
